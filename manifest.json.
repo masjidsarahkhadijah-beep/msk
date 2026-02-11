@@ -1,0 +1,15 @@
+{
+  "short_name": "MSK Mobile",
+  "name": "Masjid Sarah Khadijah Mobile",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "mskmobile.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#006400"
+}
